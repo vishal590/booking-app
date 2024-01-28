@@ -51,7 +51,7 @@ function App() {
           path="/search"
           element={
             <Layout>
-              <Searchbar />
+              <Search />
             </Layout>
           }
         />
